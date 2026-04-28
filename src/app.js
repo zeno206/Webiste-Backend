@@ -13,7 +13,7 @@ app.use(
     origin: [
       "http://localhost:3000",
       "http://localhost:5173",
-      "https://your-frontend.vercel.app",
+      "https://webiste-backend-q9b4.onrender.com",
     ],
     credentials: true,
   }),
